@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Tutorial/src/tajawal_com.tajawal.apk&apos; to &apos;com.tajawal.apk&apos;" description="Rename resource &apos;tajawal_com.tajawal.apk&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/tajawal_com.tajawal.apk" name="com.tajawal.apk" stamp="1512843707782" updateReferences="true"/>
+</session>
